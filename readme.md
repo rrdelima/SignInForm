@@ -8,6 +8,6 @@ Projeto realizado durante o curso FrontStart, no qual foi desenvolvido um exempl
 
 ## Recursos utilizados:
 
->**HTML**
->**CSS**
->**Feather Icons**
+**HTML**
+**CSS**
+**Feather Icons**
